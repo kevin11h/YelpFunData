@@ -7,7 +7,7 @@
 TURBO - Tips, Users, Reviews, Businesses Only - is an innerjoin on the user, review, and business tables and the 1st quarter of the reviews table, roughly 37K records
 
 To explore the full wealth of Yelp's dataset, please visit
-[Yelp Dataset Challenge](www.yelp.com/dataset_challenge)
+[Yelp Dataset Challenge](http://yelp.com/dataset_challenge)
 
 ##### food_words
 

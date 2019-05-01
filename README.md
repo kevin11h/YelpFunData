@@ -1,6 +1,6 @@
 ### Yelp Fun Data 
 
-##### TURBO - a Yelp Acacdemic Data Subset :poultry_leg:
+##### TURBO - a Yelp Acacdemic Data Subset 
 
 ["TURBO.csv" 110MB file](https://github.com/kevin11h/YelpFunData/blob/master/TURBO.csv.zip?raw=true)
 
